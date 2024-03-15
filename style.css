@@ -1,0 +1,15 @@
+body {
+ background-color:#D3D3D3;
+}
+h1 {
+ color: blue;
+
+}
+p{
+    color: green;
+    font-style: italic;
+}
+#container a.link {
+    color: red;
+   }
+   td { border: 1px solid black; }

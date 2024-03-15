@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Cwiczenie</title>
+ <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+     
+ <h1>Mateusz</h1>
+ <p>To jest strona stworzona na potrzeby laboratorium z programowania</p>
+ <a href="https://www.google.pl/?hl=pl"></a>
+    <ul>
+        <li>opcja1</li>
+        <li>opcja2</li>
+        <li>opcja3</li>
+    </ul>
+    <img src="image-74.png">
+    <table>
+        <thead>
+            <tr>
+                <th>nazwa</th> <th>data</th><th>opis</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>Mateusz</th> <th>15.03.2024</th> <th>To jest strona stworzonana potrzeby laboratorium z programowania</th>
+            </tr>
+        </tbody>
+    </table>
+
+    <form>
+        <label for="fname">Imie:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+        <form>
+        <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+        <label for="vehicle1"> Zgoda na newsletter</label><br>
+        <input type="submit" value="wyslij">
+
+    </form>
+</body>
+</html>
